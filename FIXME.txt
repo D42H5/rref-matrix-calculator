@@ -1,7 +1,0 @@
-*******************************************************************
-Things to be aware of:
-1) Code is precise to only 2 decimal places
-2) Currently only as place for 5 characters per number in printout
-*******************************************************************
-
-These are super easy to change, and I will get around to changing them soonish (as of 10/5/2021)
